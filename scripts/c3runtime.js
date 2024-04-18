@@ -4342,8 +4342,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Arr.Acts.Pop,
 		C3.Plugins.System.Cnds.CompareBoolVar,
 		C3.Plugins.System.Acts.SetBoolVar,
-		C3.Plugins.Sprite.Exps.AnimationFrame,
-		C3.Plugins.System.Cnds.ForEach
+		C3.Plugins.Sprite.Exps.AnimationFrame
 	];
 };
 self.C3_JsPropNameTable = [
